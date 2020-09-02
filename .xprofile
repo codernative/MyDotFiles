@@ -1,0 +1,6 @@
+#Wallpaper
+nitrogen --random --set-zoom-fill &
+
+# Compositor
+picom -f &
+
