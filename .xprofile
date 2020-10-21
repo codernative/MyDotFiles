@@ -4,3 +4,10 @@ nitrogen --random --set-zoom-fill &
 # Compositor
 picom -f &
 
+# xsetroot -cursor_name left_ptr &
+# xset r rate 300 50 &
+#./lemonbar.sh | lemonbar -p &
+#feh --bg-scale --randomize ~/Downloads/* &
+
+# exec bspwm
+exec startxfce4
